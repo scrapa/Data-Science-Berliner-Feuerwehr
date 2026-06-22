@@ -1,0 +1,103 @@
+wach_nr,wach_name,wach_typ,ff_nr,adresse,plz,ortsteil,bezirk,stadt,telefon_bf,telefon_ff,stand,eb_kurz,inspire_id,lat,lon
+1100,FW-MITTE (LRW),BF,-,Voltairestraße 2,10179,Mitte,Mitte,Berlin,+49 30 387 1100 105,-,18.09.2024,EB E 1,FW_Mitte_LRW,52.51691404,13.414667
+1110,FF-MITTE,FF,-,Linienstraße 128 - 129,10115,Mitte,Mitte,Berlin,+49 30 387 1130 105,-,18.09.2024,EB E 1,FW_Mitte,52.52658504,13.389256
+1200,FW-FRIEDRICHSHAIN,BF,1201,Rüdersdorfer Straße 57,10243,Friedrichshain,Friedrichshain-Kreuzberg,Berlin,+49 30 387 1200 105,+49 30 387 1200 131,18.09.2024,EB E 1,FW_Friedrichshain,52.51164004,13.444627
+1204,RTW-FRIEDRICHSHAIN (KRH),RW,-,Landsberger Allee 49,10249,Friedrichshain,Friedrichshain-Kreuzberg,Berlin,+49 30 387 1205 205,-,18.09.2024,EB E 1,RW_KH_Friedrichshain,52.52556104,13.441425
+1300,FW-PRENZLAUER BERG,BF,-,Oderberger Straße 24 - 25,10435,Prenzlauer Berg,Pankow,Berlin,+49 30 387 1300 105,-,18.09.2024,EB E 2,FW_Prenzlauer_Berg,52.53991004,13.406671
+1310,FF-PRENZLAUER BERG,FF,-,Schieritzstraße 24,10409,Prenzlauer Berg,Pankow,Berlin,+49 30 387 1310 105,-,18.09.2024,EB E 2,FF_Prenzlauer_Berg,52.54521604,13.440606
+1400,FW-MOABIT,BF,1401,Jagowstraße 31,10555,Moabit,Mitte,Berlin,+49 30 387 1400 105,+49 30 387 1400 131,18.09.2024,EB E 1,FW_Moabit,52.52267004,13.333697
+1500,FW-URBAN,BF,1501,Wilmsstraße 19 - 20,10961,Kreuzberg,Friedrichshain-Kreuzberg,Berlin,+49 30 387 1500 105,+49 30 387 1500 132,18.09.2024,EB E 1,FW_Urban,52.49552004,13.403235
+1600,FW-KREUZBERG,BF,1601,Wiener Straße 64,10999,Kreuzberg,Friedrichshain-Kreuzberg,Berlin,+49 30 387 1600 105,+49 30 387 1600 105,18.09.2024,EB E 1,FW_Kreuzberg,52.49863404,13.429183
+1700,FW-TIERGARTEN,BF,-,Elisabeth-Abegg-Straße 2,10557,Moabit,Mitte,Berlin,+49 30 387 1700 105,-,18.09.2024,EB E 1,FW_Tiergarten,52.52174104,13.36617
+1704,RTW-BW (KRH),RW,-,Scharnhorststraße 13,10115,Mitte,Mitte,Berlin,+49 30 387 1705 105,-,18.09.2024,EB E 1,RW_Bundeswehrkrankenhaus,52.53416504,13.371582
+2100,FW-SCHILLERPARK,BF,-,Edinburger Straße 7,13349,Wedding,Reinickendorf,Berlin,+49 30 387 2100 105,-,18.09.2024,EB E 1,FW_Schillerpark,52.55372604,13.351958
+2200,FW-WITTENAU,BF,2201,Roedernallee 55,13437,Reinickendorf,Reinickendorf,Berlin,+49 30 387 2200 105,+49 30 387 2200 131,18.09.2024,EB E 2,FW_Wittenau,52.58734504,13.340855
+2300,FW-HERMSDORF,BF,2301,Heinsestraße 24,13467,Hermsdorf,Reinickendorf,Berlin,+49 30 387 2300 105,+49 30 387 2300 131,18.09.2024,EB E 2,FW_Hermsdorf,52.61538004,13.308773
+2320,FF-FROHNAU,FF,-,Senheimer Straße 69,13465,Frohnau,Reinickendorf,Berlin,+49 30 387 2320 105,-,18.09.2024,EB E 2,FF_Frohnau,52.64530004,13.2927
+2400,FW-TEGEL,BF,2401,Berliner Straße 16,13507,Tegel,Reinickendorf,Berlin,+49 30 387 2400 105,+49 30 387 2400 131,18.09.2024,EB E 2,FW_Tegel,52.58659404,13.286173
+2410,FF-HEILIGENSEE,FF,-,Alt-Heiligensee 68,13503,Heiligensee,Reinickendorf,Berlin,+49 30 387 2410 105,-,18.09.2024,EB E 2,FF_Heiligensee,52.60669004,13.21129
+2420,FF-TEGELORT,FF,-,Baummardersteig 14,13505,Konradshöhe,Reinickendorf,Berlin,+49 30 387 2420 105,-,18.09.2024,EB E 2,FF_Tegelort,52.58365504,13.223328
+2500,FW-WEDDING,BF,2501,Reinickendorfer Straße 15 A -  C,13347,Gesundbrunnen,Reinickendorf,Berlin,+49 30 387 2500 105,+49 30 387 2500 131,18.09.2024,EB E 1,FW_Wedding,52.54328504,13.370005
+2600,FW-PANKOW,BF,-,Pasewalker Straße 120,13127,Pankow,Pankow,Berlin,+49 30 387 2600 105,-,18.09.2024,EB E 2,FW_Pankow,52.58218004,13.428937
+2604,RTW-PANKOW-MITTE (KRH),RW,-,Breite Straße 46 - 48,13187,Pankow,Pankow,Berlin,+49 30 387 2604 205,-,18.09.2024,EB E 2,RW_Pankow_Mitte,52.57043004,13.414949
+2610,FF-NIEDERSCHÖNHAUSEN,FF,-,Blankenburger Straße 19,13156,Niederschönhausen,Pankow,Berlin,+49 30 387 2610 105,-,18.09.2024,EB E 2,FF_Niederschoenhausen,52.58191304,13.40722
+2620,FF-BUCHHOLZ,FF,-,Gravensteinstraße 10,13127,Französisch-Buchholz,Pankow,Berlin,+49 30 387 2620 105,-,18.09.2024,EB E 2,FF_Buchholz,52.60717404,13.435014
+2630,FF-BLANKENFELDE,FF,-,Hauptstraße 14,13159,Blankenfelde,Pankow,Berlin,+49 30 387 2630 105,-,18.09.2024,EB E 2,FF_Blankenfelde,52.61773704,13.387658
+2640,FF-WILHELMSRUH,FF,-,Edelweißstraße 35,13158,Wilhelmsruh,Pankow,Berlin,+49 30 387 2640 105,-,18.09.2024,EB E 2,FF_Wilhelmsruh,52.58582004,13.370014
+2650,FF-PANKOW,FF,-,Stiftsweg 1A,13187,Pankow,Pankow,Berlin,+49 30 387 2650 105,-,18.09.2024,EB E 2,FF_Pankow,52.57306004,13.415502
+2704,RTW-BUCH (KRH),RW,-,Schwanebecker Chaussee 50,13125,Buch,Pankow,Berlin,+49 30 548 0964 8,-,18.09.2024,EB E 2,RW_Buch,52.63175004,13.507585
+2710,FF-BUCH,FF,-,Pölnitzweg 3,13125,Buch,Pankow,Berlin,+49 30 387 2710 105,-,18.09.2024,EB E 2,FF_Buch,52.63780204,13.501518
+2720,FF-KAROW,FF,-,Alt-Karow 10,13125,Karow,Pankow,Berlin,+49 30 387 2720 105,-,18.09.2024,EB E 2,FF_Karow,52.61110904,13.483037
+3100,FW-SPANDAU NORD,BF,3101,Triftstraße 8,13585,Hakenfelde,Spandau,Berlin,+49 30 387 3100 105,+49 30 387 3100 131,18.09.2024,EB E 3,FW_Spandau_Nord,52.54480404,13.210396
+3103,RTW-SPANDAU-NORD (KRH),RW,-,Lynarstraße 12,13585,Spandau,Spandau,Berlin,-,-,18.09.2024,EB E 3,RW_Spandau_Nord,52.54891604,13.206734
+3104,RTW-FALKENHAGENER FELD (KRH),RW,-,Stadtrandstraße 555 - 563,13589,Falkenhagener Feld,Spandau,Berlin,+49 30 387 3104 205,-,18.09.2024,EB E 3,RW_Falkenhagener_Feld,52.56406404,13.155651
+3110,FF-STAAKEN,FF,-,Hackbuschstraße 65,13591,Staaken,Spandau,Berlin,+49 30 387 3110 105,-,18.09.2024,EB E 3,FF_Staaken,52.54346004,13.150567
+3200,FW-SPANDAU SÜD,BF,-,Betckestraße 13,13595,Wilhelmstadt,Spandau,Berlin,+49 30 387 3200 105,-,18.09.2024,EB E 3,FW_Spandau_Sued,52.52097304,13.204574
+3210,FF-GATOW,FF,-,Gatower Straße 333,14089,Gatow,Spandau,Berlin,+49 30 387 3210 105,-,18.09.2024,EB E 3,FF_Gatow,52.48970404,13.180663
+3220,FF-KLADOW,FF,-,Kladower Damm 367,14089,Kladow,Spandau,Berlin,+49 30 387 3220 105,-,18.09.2024,EB E 3,FF_Kladow,52.45471604,13.1452265
+3300,FW-SUAREZ,BF,3301,Suarezstraße 9,14057,Charlottenburg,Charlottenburg-Wilmersdorf,Berlin,+49 30 387 3300 105,+49 30 387 3300 131,18.09.2024,EB E 3,FW_Suarez,52.50906004,13.296062
+3304,RTW-WESTEND (KRH),RW,-,Spandauer Damm 130,14059,Westend,Charlottenburg-Wilmersdorf,Berlin,+49 30 387 3304 105,-,18.09.2024,EB E 3,RW_Westend,52.52069804,13.279056
+3390,RTW-LIETZOW (MHD),RW,-,Alt-Lietzow 33,10587,Charlottenburg,Charlottenburg-Wilmersdorf,Berlin,+49 30 348 0036 03,-,18.09.2024,EB E 3,RW_Lietzow,52.51860404,13.311593
+3400,FW-WILMERSDORF,BF,3401,Gasteiner Straße 19 - 20,10717,Wilmersdorf,Charlottenburg-Wilmersdorf,Berlin,+49 30 387 3400 105,+49 30 387 3400 105,18.09.2024,EB E 3,FW_Wilmersdorf,52.48750704,13.320455
+3404,RTW-SCHMARGENDORF (KRH),RW,-,Caspar-Theyß-Straße 27 - 33,14193,Schmargendorf,Charlottenburg-Wilmersdorf,Berlin,+49 30 387 3404 205,-,18.09.2024,EB E 3,RW_Schmargendorf,52.49131404,13.291342
+3490,RTW-FRIEDENAU (DRK),RW,-,Görresstraße 14,12161,Friedenau,Tempelhof-Schöneberg,Berlin,+49 30 387 3490 205,-,18.09.2024,EB E 4,RW_Friedenau,52.47420004,13.327
+3500,FW-RANKE,BF,-,Rankestraße 10,10789,Charlottenburg,Charlottenburg-Wilmersdorf,Berlin,+49 30 387 3500 105,-,18.09.2024,EB E 3,FW_Ranke,52.50170804,13.332584
+3503,RTW-BUDAPESTER STR. (KRH),RW,-,Budapester Straße 15 - 19,10787,Tiergarten,Mitte,Berlin,,,18.09.2024,EB E 1,RW_Budapester_Str,52.50607004,13.345115
+3504,RTW-TIERGARTEN-SÜD (KRH),RW,-,Lützowstraße 24 - 26,10785,Tiergarten,Mitte,Berlin,+49 30 387 3504 205,-,18.09.2024,EB E 1,RW_Tiergarten_Sued,52.50363504,13.363652
+3600,FW-CHARLOTTENBURG NORD,BF,-,Nikolaus-Groß-Weg 2,13627,Charlottenburg-Nord,Charlottenburg-Wilmersdorf,Berlin,+49 30 387 3600 105,-,18.09.2024,EB E 3,FW_Charlottenburg_Nord,52.53305004,13.282474
+3608,FW-CHARLOTTENBURG-NORD (Ausweich),BF,-,Flughafen Tegel o.Nr. (BMZ),13405,Tegel,Reinickendorf,Berlin,-,-,18.09.2024,EB E 2,FW_Charlottenburg_Nord_Ausweich,52.55323804,13.284405
+3639,TD 1,BF,-,Nikolaus-Groß-Weg 2,13627,Charlottenburg-Nord,Charlottenburg-Wilmersdorf,Berlin,+49 30 387 3035 0,-,18.09.2024,EB E 3,Technischer_Dienst_I,52.53290604,13.283535
+3649,Fernmeldeeinsatzdienst,BF,-,Nikolaus-Groß-Weg 2,13627,Charlottenburg-Nord,Charlottenburg-Wilmersdorf,Berlin,-,-,18.09.2024,EB E 3,Fernmeldeeinsatzdienst,52.53238904,13.282459
+3690,RTW-SIEMENSSTADT (DRK),RW,3601,Paulsternstraße 34,13629,Siemensstadt,Spandau,Berlin,+49 30 387 3690 105,+49 30 387 3600 131,18.09.2024,EB E 3,RW_Siemensstadt,52.54406804,13.247603
+4100,FW-ZEHLENDORF,BF,4101,Charlottenburger Straße 10,14169,Zehlendorf,Steglitz-Zehlendorf,Berlin,+49 30 387 4100 105,+49 30 387 4100 131,18.09.2024,EB E 4,FW_Zehlendorf,52.43717004,13.265346
+4200,FW-STEGLITZ,BF,-,Südendstraße 18A,12169,Steglitz,Steglitz-Zehlendorf,Berlin,+49 30 387 4200 105,-,18.09.2024,EB E 4,FW_Steglitz,52.45596704,13.33036
+4206,RW-RTH CHRISTOPH 31,RW,-,Klingsorstraße 107,12203,Lichterfelde,Steglitz-Zehlendorf,Berlin,+49 30 8445 4068,-,18.09.2024,EB E 4,RW_RTH_Christoph,52.44112081,13.32212907
+4300,FW-TEMPELHOF,BF,-,Borussiastraße 16 - 17,12103,Tempelhof,Tempelhof-Schöneberg,Berlin,+49 30 387 4300 105,-,18.09.2024,EB E 4,FW_Tempelhof,52.46697204,13.383859
+4390,RW-MARIENDORF,RW,-,Rathausstraße 70 - 72,12105,Mariendorf,Tempelhof-Schöneberg,Berlin,+49 30 387 4390 202,-,18.09.2024,EB E 4,RW_Mariendorf,52.44388004,13.3803215
+4400,FW-SCHÖNEBERG,BF,4401,Feurigstraße 58,10827,Schöneberg,Tempelhof-Schöneberg,Berlin,+49 30 387 4400 105,+49 30 387 4400 131,18.09.2024,EB E 4,FW_Schoeneberg,52.48461004,13.356756
+4500,FW-WANNSEE,BF,-,Kronprinzessinnenweg 20,14109,Wannsee,Steglitz-Zehlendorf,Berlin,+49 30 387 4500 105,-,18.09.2024,EB E 4,FW_Wannsee,52.42929504,13.184649
+4600,FW-LICHTERFELDE,BF,4601,Goethestraße 7,12207,Lichterfelde,Steglitz-Zehlendorf,Berlin,+49 30 387 4600 105,+49 30 387 4600 131,18.09.2024,EB E 4,FW_Lichterfelde,52.42956004,13.315505
+4604,RTW-LANKWITZ (KRH),RW,-,Gallwitzallee 123 - 143,12249,Lankwitz,Steglitz-Zehlendorf,Berlin,+49 30 387 4604 205,-,18.09.2024,EB E 4,RW_Lankwitz,52.42491904,13.350624
+4700,FW-MARIENFELDE,BF,4701,Wilhelm-von-Siemens-Straße 15,12277,Mariendorf,Tempelhof-Schöneberg,Berlin,+49 30 387 4700 105,+49 30 387 4700 131,18.09.2024,EB E 4,FW_Marienfelde,52.42957704,13.380497
+4710,FF-LICHTENRADE,FF,-,Im Domstift 22,12309,Lichtenrade,Tempelhof-Schöneberg,Berlin,+49 30 387 4710 105,-,18.09.2024,EB E 4,FF_Lichtenrade,52.39247004,13.412235
+4790,RTW-MARIENFELDE-SÜD (JUH),RW,-,Nunsdorfer Ring 7-9,12277,Marienfelde,Tempelhof-Schöneberg,Berlin,+49 30 387 4790 205,-,18.09.2024,EB E 4,RW_Marienfelde_Sued,52.40875604,13.379717
+5100,FW-NEUKÖLLN,BF,5101,Kirchhofstraße 20,12051,Neukölln,Neukölln,Berlin,+49 30 387 5100 105,+49 30 387 5100 131,18.09.2024,EB E 5,FW_Neukoelln,52.46899004,13.438435
+5200,FW-BUCKOW,BF,-,Johannisthaler Chaussee 222,12351,Buckow,Neukölln,Berlin,+49 30 387 5200 105,-,18.09.2024,EB E 5,FW_Buckow,52.43419304,13.468328
+5210,FF-RUDOW,FF,-,Alt-Rudow 67,12355,Rudow,Neukölln,Berlin,+49 30 387 5210 105,-,18.09.2024,EB E 5,FF_Rudow,52.41703404,13.496813
+5300,FW-TREPTOW,BF,5301,Groß-Berliner Damm 18,12487,Johannisthal,Treptow-Köpenick,Berlin,+49 30 387 5300 105,+49 30 387 5300 131,18.09.2024,EB E 5,FW_Treptow,52.45026004,13.510139
+5304,RTW-BOHNSDORF (KRH),RW,-,Höhensteig 1,12526,Bohnsdorf,Treptow-Köpenick,Berlin,+49 30 387 5304 105,-,18.09.2024,EB E 5,RW_Bohnsdorf,52.40559404,13.570906
+5310,FF-ADLERSHOF,FF,-,Selchowstraße 3-4,12489,Adlershof,Treptow-Köpenick,Berlin,+49 30 387 5310 105,-,18.09.2024,EB E 5,FF_Adlershof,52.43940004,13.55
+5320,FF-BOHNSDORF,FF,-,Waltersdorfer Straße 107,12526,Bohnsdorf,Treptow-Köpenick,Berlin,+49 30 387 5320 105,-,18.09.2024,EB E 5,FF_Bohnsdorf,52.40165004,13.5742
+5330,FF-ALTGLIENICKE,FF,-,Semmelweisstraße 56-64,12524,Altglienicke,Treptow-Köpenick,Berlin,+49 30 387 5330 105,-,18.09.2024,EB E 5,FF_Altglienicke,52.42448904,13.533715
+5340,FF-OBERSCHÖNEWEIDE,FF,-,Siemensstraße 26,12459,Oberschöneweide,Treptow-Köpenick,Berlin,+49 30 387 5340 105,-,18.09.2024,EB E 5,FF_Oberschoeneweide,52.46404304,13.510991
+5390,RTW-ADLERSHOF,RW,-,Anna-Seghers-Straße 171B,12489,Adlershof,Treptow-Köpenick,Berlin,+49 30 387 5390 202,-,18.09.2024,EB E 5,RW_Adlershof,52.43182304,13.549151
+5400,FW-KÖPENICK,BF,5401,Katzengraben 1 - 1 A,12555,Köpenick,Treptow-Köpenick,Berlin,+49 30 387 5400 105,+49 30 387 5400 131,18.09.2024,EB E 5,FW_Koepenick,52.44739904,13.578987
+5404,RTW-KÖPENICK (KRH),RW,-,Salvador-Allende-Straße 2-8,12559,Köpenick,Treptow-Köpenick,Berlin,+49 30 387 5404 105,-,18.09.2024,EB E 5,RW_Koepenick,52.44110004,13.5966
+5410,FF-FRIEDRICHSHAGEN,FF,-,Müggelseedamm 178,12587,Friedrichshagen,Treptow-Köpenick,Berlin,+49 30 387 5410 105,-,18.09.2024,EB E 5,FF_Friedrichshagen,52.44657504,13.626126
+5430,FF-WILHELMSHAGEN,FF,-,Frankenbergstraße 23,12589,Rahnsdorf,Treptow-Köpenick,Berlin,+49 30 387 5430 105,-,18.09.2024,EB E 5,FF_Wilhelmshagen,52.43670004,13.716145
+5440,FF-MÜGGELHEIM,FF,-,Krampenburger Weg 1,12559,Müggelheim,Treptow-Köpenick,Berlin,+49 30 387 5440 105,-,18.09.2024,EB E 5,FF_Mueggelheim,52.41056004,13.664399
+5450,FF-SCHMÖCKWITZ,FF,-,Godbersenstraße 31,12527,Schmöckwitz,Treptow-Köpenick,Berlin,+49 30 387 5450 105,-,18.09.2024,EB E 5,FF_Schmoeckwitz,52.37849004,13.643642
+5460,FF-RAUCHFANGSWERDER,FF,-,Schmöckwitzer Damm 60,12527,Schmöckwitz,Treptow-Köpenick,Berlin,+49 30 387 5460 105,-,18.09.2024,EB E 5,FF_Rauchfangswerder,52.34707004,13.645771
+5470,FF-GRÜNAU,FF,-,Schlierseestraße 10,12527,Grünau,Treptow-Köpenick,Berlin,+49 30 387 5470 105,-,18.09.2024,EB E 5,FF_Gruenau,52.42220004,13.5789995
+5490,RTW-RAHNSDORF (ASB),RW,-,Mühlenweg 8,12589,Rahnsdorf,Treptow-Köpenick,Berlin,+49 30 641 6936 4,-,18.09.2024,EB E 5,RW_Rahnsdorf,52.43902204,13.689635
+6100,FW-MARZAHN,BF,-,Märkische Allee 181,12681,Marzahn,Marzahn-Hellersdorf,Berlin,+49 30 387 6100 105,-,18.09.2024,EB E 6,FW_Marzahn,52.53498012,13.53670374
+6106,RW-UNFALLKRANKENHAUS BERLIN,RW,-,Warener Straße 7,12683,Biesdorf,Marzahn-Hellersdorf,Berlin,+49 30 387 6105 105,-,18.09.2024,EB E 6,RW_Unfallkrankenhaus_Berlin,52.51938494,13.56699481
+6110,FF-MARZAHN,FF,-,Blenheimstraße 67,12685,Marzahn,Marzahn-Hellersdorf,Berlin,+49 30 387 6110 105,-,18.09.2024,EB E 6,FF_Marzahn,52.54204604,13.562305
+6120,FF-BIESDORF,FF,-,Alt-Biesdorf 58,12683,Biesdorf,Marzahn-Hellersdorf,Berlin,+49 30 387 6120 105,-,18.09.2024,EB E 6,FF_Biesdorf,52.50957904,13.556254
+6139,TD 2,BF,-,Märkische Allee 181,12681,Marzahn,Marzahn-Hellersdorf,Berlin,+49 30 387 6100 362,-,18.09.2024,EB E 6,Technischer_Dienst_II,52.53591484,13.53684443
+6149,Fernmeldeinsatzdienst (FW Marzahn),BF,-,Märkische Allee 181,12681,Marzahn,Marzahn-Hellersdorf,Berlin,-,-,18.09.2024,EB E 6,Fernmeldeinsatzdienst_FW_Marzahn,52.53531239,13.53664807
+6200,FW-HELLERSDORF,BF,-,Kummerower Ring 80,12619,Hellersdorf,Marzahn-Hellersdorf,Berlin,+49 30 387 6200 105,-,18.09.2024,EB E 6,FW_Hellersdorf,52.52559004,13.582429
+6204,RTW-KAULSDORF (KRH),RW,-,Myslowitzer Straße 45,12621,Kaulsdorf,Marzahn-Hellersdorf,Berlin,+49 30 387 6204 105,-,18.09.2024,EB E 6,RW_Kaulsdorf,52.50787704,13.593631
+6210,FF-KAULSDORF,FF,-,Mädewalder Weg 21,12621,Kaulsdorf,Marzahn-Hellersdorf,Berlin,+49 30 387 6210 105,-,18.09.2024,EB E 6,FF_Kaulsdorf,52.50686304,13.587988
+6220,FF-MAHLSDORF,FF,-,Donizettistraße 4,12623,Mahlsdorf,Marzahn-Hellersdorf,Berlin,+49 30 387 6220 105,-,18.09.2024,EB E 6,FF_Mahlsdorf,52.51160004,13.615521
+6230,FF-HELLERSDORF,FF,-,Hellersdorfer Straße 147,12619,Hellersdorf,Marzahn-Hellersdorf,Berlin,+49 30 387 6230 105,-,18.09.2024,EB E 6,FF_Hellersdorf,52.53014004,13.58984
+6300,FW-WEIßENSEE,BF,6301,Parkstraße 38 - 39,13086,Weißensee,Pankow,Berlin,+49 30 387 6300 105,+49 30 387 6300 131,18.09.2024,EB E 2,FW_Weissensee,52.55644604,13.459756
+6310,FF-HOHENSCHÖNHAUSEN,FF,-,Ferdinand-Schultze-Straße 128 - 132,13055,Alt-Hohenschönhausen,Lichtenberg,Berlin,+49 30 387 6310 105,-,18.09.2024,EB E 6,FF_Hohenschoenhausen,52.54505504,13.508145
+6320,FF-FALKENBERG,FF,-,Hausvaterweg 16,13057,Falkenberg,Lichtenberg,Berlin,+49 30 387 6320 105,-,18.09.2024,EB E 6,FF_Falkenberg,52.56953604,13.546532
+6330,FF-WARTENBERG-MALCHOW,FF,-,Dorfstraße 4,13059,Wartenberg,Lichtenberg,Berlin,+49 30 387 6330 105,-,18.09.2024,EB E 6,FF_Wartenberg_Malchow,52.57473804,13.515738
+6360,FF-BLANKENBURG,FF,-,Alt-Blankenburg 9,13129,Blankenburg,Pankow,Berlin,+49 30 387 6360 105,-,18.09.2024,EB E 2,FF_Blankenburg,52.59309904,13.451986
+6370,FF-HEINERSDORF,FF,-,Romain-Rolland-Straße 105 - 107,13089,Heinersdorf,Pankow,Berlin,+49 30 387 6370 105,-,18.09.2024,EB E 2,FF_Heinersdorf,52.57145304,13.437302
+6400,FW-LICHTENBERG,BF,6401,Josef-Orlopp-Straße 69,10365,Lichtenberg,Lichtenberg,Berlin,+49 30 387 6400 105,+49 30 387 6400 131,18.09.2024,EB E 6,FW_Lichtenberg,52.52318204,13.492858
+6407,RTW-LICHTENBERG,RW,-,Siegrfriedstraße 210A,10365,Rummelsburg,Lichtenberg,Berlin,-,-,18.09.2024,EB E 6,RW_KH_Lichtenberg,52.51275123,13.49753446
+6490,RTW-RUMMELSBURG (ASB),RW,-,Nöldnerstraße 36,10317,Rummelsburg,Treptow-Köpenick,Berlin,+49 30 387 6490 205,-,18.09.2024,EB E 6,RW_Rummelsburg,52.50194504,13.483908
+6500,FW-KARLSHORST,BF,6501,Dönhoffstraße 31,10318,Karlshorst,Lichtenberg,Berlin,+49 30 387 6500 105,+49 30 387 6500 131,18.09.2024,EB E 6,FW_Karlshorst,52.48401004,13.520727
