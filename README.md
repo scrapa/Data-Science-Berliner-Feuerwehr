@@ -1,3 +1,4 @@
+```text
 Analyse der Einsatzstruktur und Hilfsfristen der Berliner Feuerwehr (2023)
 Modul: Einführung Data Science (Prof. Dr. Christin Schmidt)
 Institution: HTW Berlin, FB4, Studiengang Angewandte Informatik
@@ -49,7 +50,7 @@ Um die Reproduzierbarkeit der Analysen zu gewährleisten, ist das Projekt wie fo
 │   ├── Seminararbeit_Gruppe6.pdf         # Finale schriftliche Ausarbeitung
 │   └── Praesentation_Gruppe6.pdf         # Folien für die Abschlusspräsentation
 └── README.md                             # Diese Projektübersicht
-```
+
 
 5. Setup und Reproduzierbarkeit
 Die gesamte Datenverarbeitung und Analyse wurde in R durchgeführt. Zur lokalen Reproduktion des Projekts müssen folgende Voraussetzungen erfüllt sein:
