@@ -25,7 +25,7 @@ Feuerwehrstandorte Berlin: Geodaten zu den exakten Standorten (WGS 84) von 102 W
 
 4. Projektstruktur (Repository)
 Um die Reproduzierbarkeit der Analysen zu gewährleisten, ist das Projekt wie folgt strukturiert:
-```text
+
 /
 ├── data/
 │   ├── raw/                              # Unveränderte Originaldaten
