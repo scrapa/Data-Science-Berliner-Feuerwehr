@@ -21,7 +21,7 @@ def compute_response_time_regression(csv_path: str) -> None:
     der Einflussfaktoren auf die Hilfsfristen der Berliner Feuerwehr durch.
     """
 
-    # Einlesen des bereinigten Master-Datensatzes von Person 2
+    # Einlesen des bereinigten Master-Datensatzes
     try:
         df = pd.read_csv(csv_path, low_memory=False)
         print(f"Datensatz erfolgreich geladen. Ursprüngliche Zeilen: {len(df):,}")
