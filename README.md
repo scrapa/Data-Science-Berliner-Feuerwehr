@@ -12,22 +12,15 @@ Dieses Data-Science-Projekt analysiert das Einsatzaufkommen und die raumstruktur
 Die Umsetzung des Projekts erfolgt in einer fünfköpfigen Arbeitsgruppe. Zur effizienten Bearbeitung wurden folgende Rollen und Verantwortlichkeiten definiert:
 
 Attila Kalafat (599121) – Domain Expert & Projektleitung: Übernimmt die inhaltliche Führung, verantwortet die Theoriebildung und steuert den Projektablauf.
-
 Adam Kefi (593033) – Data Engineer: Ist für die Datenaufbereitung, die Bereinigung der Datensätze sowie die technische Infrastruktur zuständig.
-
 Paul Giorgobiani (597628) – Time-Series Analyst: Analysiert zeitliche Trends und Muster.
-
 Al-Zubair Al-Abbasi (586840) – Geospatial Analyst: Untersucht räumliche Verteilungen und wertet geografische Faktoren aus.
-
 Sipan Cheikhi (600279) – Statistical Modeler: Verantwortet die mathematisch-statistische Modellierung (mittels multipler linearer Regression) und die tiefergehende Ursachenforschung.
 
 3. Verwendete Datenquellen
 Das Projekt basiert ausschließlich auf öffentlich zugänglichen, amtlichen Sekundärdaten:
-
 Berliner Feuerwehr Open Data (2023): Enthält 512.885 anonymisierte Einsatzdatensätze (Datum, Einsatzart, Bezirk, Hilfsfrist).
-
 Zensus (Stichtag 15.05.2022): Demografische Daten (Einwohnerzahl, Bevölkerungsdichte) der 12 Berliner Bezirke (Destatis).
-
 Feuerwehrstandorte Berlin: Geodaten zu den exakten Standorten (WGS 84) von 102 Wachen der Berufs- und Freiwilligen Feuerwehr (Geoportal Berlin).
 
 4. Projektstruktur (Repository)
